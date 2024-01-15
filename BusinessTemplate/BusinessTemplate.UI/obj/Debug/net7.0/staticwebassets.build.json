@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xI0dNz1bDgAfQAHPZz8winnrclSJGGKK3bPrFTMcc/4=",
+  "Hash": "/7bpMdZ0RA0Q7faNnD3kqipHAYUowun+v+cZwjuAN0M=",
   "Source": "BusinessTemplate.UI",
   "BasePath": "_content/BusinessTemplate.UI",
   "Mode": "Default",
@@ -32181,12 +32181,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\video\\video.mp4"
     },
     {
-      "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\17ac8cea-20f5-4615-aa85-b39f620ce867insta-item4.jpg",
+      "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\0222df00-a9dd-49ae-9705-e0d0e6f8b885post-item2.jpg",
       "SourceId": "BusinessTemplate.UI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\",
       "BasePath": "_content/BusinessTemplate.UI",
-      "RelativePath": "uploads/blogs-images/17ac8cea-20f5-4615-aa85-b39f620ce867insta-item4.jpg",
+      "RelativePath": "uploads/blogs-images/0222df00-a9dd-49ae-9705-e0d0e6f8b885post-item2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32195,7 +32195,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\17ac8cea-20f5-4615-aa85-b39f620ce867insta-item4.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\0222df00-a9dd-49ae-9705-e0d0e6f8b885post-item2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\0740a5cf-2d98-4c3a-b859-d89d9e1d4081post-item2.jpg",
+      "SourceId": "BusinessTemplate.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\",
+      "BasePath": "_content/BusinessTemplate.UI",
+      "RelativePath": "uploads/blogs-images/0740a5cf-2d98-4c3a-b859-d89d9e1d4081post-item2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\0740a5cf-2d98-4c3a-b859-d89d9e1d4081post-item2.jpg"
     },
     {
       "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\3bea0676-b514-479a-a54b-1b8f178c1b01post-item9.jpg",
@@ -32215,6 +32232,23 @@
       "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\3bea0676-b514-479a-a54b-1b8f178c1b01post-item9.jpg"
     },
     {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\4a12af65-f15e-4ab6-a84d-13ec76f671cdpost-small-image2.jpg",
+      "SourceId": "BusinessTemplate.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\",
+      "BasePath": "_content/BusinessTemplate.UI",
+      "RelativePath": "uploads/blogs-images/4a12af65-f15e-4ab6-a84d-13ec76f671cdpost-small-image2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\4a12af65-f15e-4ab6-a84d-13ec76f671cdpost-small-image2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\4ad75e95-ba72-448e-a22c-3c6acf5e6ab5post-item8.jpg",
       "SourceId": "BusinessTemplate.UI",
       "SourceType": "Discovered",
@@ -32230,23 +32264,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\4ad75e95-ba72-448e-a22c-3c6acf5e6ab5post-item8.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\9a076f07-fec0-4b0f-92af-554beca6570dpost-item8.jpg",
-      "SourceId": "BusinessTemplate.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\",
-      "BasePath": "_content/BusinessTemplate.UI",
-      "RelativePath": "uploads/blogs-images/9a076f07-fec0-4b0f-92af-554beca6570dpost-item8.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\blogs-images\\9a076f07-fec0-4b0f-92af-554beca6570dpost-item8.jpg"
     },
     {
       "Identity": "C:\\Users\\II novbe\\Desktop\\all task\\BusinessTemplate\\BusinessTemplate\\BusinessTemplate.UI\\wwwroot\\uploads\\blogs-images\\b6f4f23c-645b-4911-aad6-4d5354ecd99dinsta-item3.jpg",

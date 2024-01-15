@@ -1,5 +1,6 @@
 ﻿using BusinessTemplate.Business.CustomException.Blog;
 using BusinessTemplate.Business.CustomException.Common;
+using BusinessTemplate.Business.CustomException.Image;
 using BusinessTemplate.Business.Services.Service;
 using BusinessTemplate.Core.Entities;
 using Microsoft.AspNetCore.Authorization;

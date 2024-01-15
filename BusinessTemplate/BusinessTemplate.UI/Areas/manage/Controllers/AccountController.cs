@@ -46,12 +46,12 @@ namespace BusinessTemplate.UI.Areas.manage.Controllers
             return RedirectToAction("index", "blog");
         }
 
-        [HttpGet]
+      
         public async Task<IActionResult> Logout()
         {
             await _accountService.Logout();
 
-            return RedirectToAction("index", "blog");
+            return RedirectToAction("login", "account");
         }
 
         #region Admin operations

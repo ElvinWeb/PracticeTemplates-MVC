@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessTemplate.Business.CustomException.Common
+namespace BusinessTemplate.Business.CustomException.Image
 {
     public class ImageRequiredException : Exception
     {

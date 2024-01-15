@@ -1,5 +1,6 @@
 ﻿using BusinessTemplate.Business.CustomException.Blog;
 using BusinessTemplate.Business.CustomException.Common;
+using BusinessTemplate.Business.CustomException.Image;
 using BusinessTemplate.Business.Helpers;
 using BusinessTemplate.Business.Services.Service;
 using BusinessTemplate.Core.Entities;
@@ -120,7 +121,8 @@ namespace BusinessTemplate.Business.Services.Implementations
                 {
                     File.Delete(oldFilePath);
                 }
-                blog.ImgUrl = updatedFilePath;
+
+                wantedBlog.ImgUrl = updatedFilePath;
 
             }
 

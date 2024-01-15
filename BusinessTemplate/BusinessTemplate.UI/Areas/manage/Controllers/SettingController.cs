@@ -2,12 +2,14 @@
 using BusinessTemplate.Business.CustomException.Setting;
 using BusinessTemplate.Business.Services.Service;
 using BusinessTemplate.Core.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Reflection.Metadata;
 
 namespace BusinessTemplate.UI.Areas.manage.Controllers
 {
     [Area("manage")]
+    [Authorize(Roles = "Admin")]
     public class SettingController : Controller
     {
         private readonly ISettingService _settingService;
