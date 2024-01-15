@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Business.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\refint\BusinessTemplate.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\ref\BusinessTemplate.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\bin\Debug\net7.0\BusinessTemplate.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Business\obj\Debug\net7.0\BusinessTemplate.Business.csproj.CopyComplete

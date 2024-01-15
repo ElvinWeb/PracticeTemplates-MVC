@@ -1,0 +1,53 @@
+﻿@model List<Blog>
+@{
+    int counter = 0;
+}
+@section cssLinks{
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.min.css" />
+}
+<style>
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="header">
+        <h1>Blogs Table</h1>
+        <a asp-action="Create" asp-controller="blog" class="btn btn-primary">Create</a>
+    </div>
+
+    <table class="table shadow">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">Blog-Image</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Blog blog in Model)
+            {
+                counter++;
+                <tr>
+                    <th scope="row">@counter</th>
+                    <td>@blog.Title</td>
+                    <td>@blog.Description</td>
+                    <td style="max-width: 200px"><img style="width: 40%" src="~/uploads/blogs-images/@blog.ImgUrl" /></td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="blog" asp-route-id="@blog.Id">Update</a>
+                        <a class="btn btn-danger delete-btn" asp-action="SoftDelete" asp-controller="blog" asp-route-id="@blog.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section jsLinks{
+    <script src="~/admin/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.min.js"></script>
+}

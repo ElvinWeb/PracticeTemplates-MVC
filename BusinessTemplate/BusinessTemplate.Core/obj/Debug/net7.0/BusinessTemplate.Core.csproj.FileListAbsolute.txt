@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\bin\Debug\net7.0\BusinessTemplate.Core.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\bin\Debug\net7.0\BusinessTemplate.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\bin\Debug\net7.0\BusinessTemplate.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\refint\BusinessTemplate.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\ref\BusinessTemplate.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\BusinessTemplate\BusinessTemplate.Core\obj\Debug\net7.0\BusinessTemplate.Core.csproj.AssemblyReference.cache

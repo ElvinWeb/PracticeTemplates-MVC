@@ -1,0 +1,29 @@
+﻿@model Setting
+<style>
+    .form-container {
+        max-width: 700px;
+        padding: 50px;
+        margin-bottom: 50px;
+        border-radius: 3px;
+    }
+
+    .btn-info, .btn-primary {
+        width: 150px;
+    }
+</style>
+<div class="container shadow form-container">
+    <div>
+        <h1 class="title mb-3">Update a Setting</h1>
+    </div>
+    <form method="post">
+
+        <div class="mb-3">
+            <label for="" class="form-label">Value</label>
+            <input asp-for="Value" type="text" class="form-control">
+            <span asp-validation-for="Value" style="color:red"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary ">Submit</button>
+        <a class="btn btn-info" asp-action="Index" asp-controller="setting">Back To Home</a>
+    </form>
+</div>

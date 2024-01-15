@@ -1,0 +1,40 @@
+﻿@model List<Setting>
+@{
+    int counter = 0;
+}
+<style>
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="header">
+        <h1>Settings Table</h1>
+    </div>
+    <table class="table shadow">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">Value</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var setting in Model)
+            {
+                counter++;
+                <tr>
+                    <th scope="row">@counter</th>
+                    <td>@setting.Value</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="setting" asp-route-id="@setting.Id">Update</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
