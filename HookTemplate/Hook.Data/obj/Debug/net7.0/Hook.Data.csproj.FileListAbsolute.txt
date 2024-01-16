@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Data.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\refint\Hook.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\ref\Hook.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\bin\Debug\net7.0\Hook.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Data\obj\Debug\net7.0\Hook.Data.genruntimeconfig.cache

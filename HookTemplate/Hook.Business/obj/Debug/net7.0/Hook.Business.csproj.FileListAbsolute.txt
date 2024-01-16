@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Business.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\refint\Hook.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\ref\Hook.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\bin\Debug\net7.0\Hook.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Business\obj\Debug\net7.0\Hook.Business.csproj.CopyComplete

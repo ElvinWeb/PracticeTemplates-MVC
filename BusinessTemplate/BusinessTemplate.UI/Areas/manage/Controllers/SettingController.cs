@@ -40,7 +40,6 @@ namespace BusinessTemplate.UI.Areas.manage.Controllers
 
             try
             {
-
                 await _settingService.UpdateAsync(setting);
             }
             catch (SettingNullReferenceException ex)

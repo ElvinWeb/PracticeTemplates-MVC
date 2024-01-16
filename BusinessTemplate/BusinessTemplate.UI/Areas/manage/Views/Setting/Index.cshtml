@@ -18,6 +18,7 @@
         <thead>
             <tr>
                 <th scope="col">No</th>
+                <th scope="col">Key</th>
                 <th scope="col">Value</th>
                 <th scope="col">Actions</th>
             </tr>
@@ -28,6 +29,7 @@
                 counter++;
                 <tr>
                     <th scope="row">@counter</th>
+                    <td>@setting.Key</td>
                     <td>@setting.Value</td>
                     <td>
                         <a class="btn btn-warning" asp-action="Update" asp-controller="setting" asp-route-id="@setting.Id">Update</a>

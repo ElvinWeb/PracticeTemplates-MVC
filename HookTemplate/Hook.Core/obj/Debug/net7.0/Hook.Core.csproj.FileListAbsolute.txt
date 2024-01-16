@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\bin\Debug\net7.0\Hook.Core.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\bin\Debug\net7.0\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\bin\Debug\net7.0\Hook.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\refint\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\ref\Hook.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.Core\obj\Debug\net7.0\Hook.Core.csproj.AssemblyReference.cache

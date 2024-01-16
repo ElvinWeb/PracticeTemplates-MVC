@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hook.UI
+build_property.RootNamespace = Hook.UI
+build_property.ProjectDir = C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.UI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\II novbe\Desktop\all task\BusinessTemplate\HookTemplate\Hook.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Feature/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXEZlYXR1cmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXEZlYXR1cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Feature/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXEZlYXR1cmVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Setting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXFNldHRpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Setting/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXFNldHRpbmdcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/areas/manage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YXJlYXNcbWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/II novbe/Desktop/all task/BusinessTemplate/HookTemplate/Hook.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-72eqbluhde

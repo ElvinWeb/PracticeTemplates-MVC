@@ -1,7 +1,9 @@
+using BusinessTemplate.Business;
 using BusinessTemplate.Business.Services.Implementations;
 using BusinessTemplate.Business.Services.Service;
 using BusinessTemplate.Core.Entities;
 using BusinessTemplate.Core.Repositories;
+using BusinessTemplate.Data;
 using BusinessTemplate.Data.DAL;
 using BusinessTemplate.Data.Repositories.Implementations;
 using BusinessTemplate.UI.ViewService;
@@ -14,16 +16,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<LayoutService>();
-
-builder.Services.AddScoped<IBlogRepository, BlogRepository>();
-builder.Services.AddScoped<IBlogService, BlogService>();
-
-builder.Services.AddScoped<ISettingRepository, SettingRepository>();
-builder.Services.AddScoped<ISettingService, SettingService>();
-
-builder.Services.AddScoped<IAccountService, AccountService>();
-
-
+builder.Services.ServicesRegistration();
+builder.Services.RepositoryRegistration();
 
 builder.Services.AddDbContext<ProjectDbContext>(options =>
 {
