@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Data.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\bin\Debug\net7.0\NeoGym.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\refint\NeoGym.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\NeoGym.Data.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Data\obj\Debug\net7.0\ref\NeoGym.Data.dll

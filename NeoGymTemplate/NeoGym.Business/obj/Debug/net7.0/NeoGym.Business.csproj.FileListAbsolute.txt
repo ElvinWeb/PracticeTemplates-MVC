@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Business.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Data.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Data.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\bin\Debug\net7.0\NeoGym.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\refint\NeoGym.Business.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\NeoGym.Business.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Business\obj\Debug\net7.0\ref\NeoGym.Business.dll

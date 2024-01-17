@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\bin\Debug\net7.0\NeoGym.Core.deps.json
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\bin\Debug\net7.0\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\bin\Debug\net7.0\NeoGym.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\refint\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.pdb
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\ref\NeoGym.Core.dll
+C:\Users\II novbe\Desktop\all task\BusinessTemplate\NeoGymTemplate\NeoGym.Core\obj\Debug\net7.0\NeoGym.Core.csproj.AssemblyReference.cache

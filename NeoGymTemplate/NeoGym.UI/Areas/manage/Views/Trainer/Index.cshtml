@@ -1,0 +1,57 @@
+﻿@model List<Trainer>
+@{
+    int counter = 0;
+}
+@section cssLinks{
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.min.css" />
+}
+<style>
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+</style>
+<div class="container-fluid">
+    <div class="header">
+        <h1>Trainers Table </h1>
+        <a asp-action="create" asp-controller="trainer" class="btn btn-primary">Create</a>
+    </div>
+    <table class="table table-striped shadow">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">FullName</th>
+                <th scope="col">Twitter Url</th>
+                <th scope="col">FaceBook Url</th>
+                <th scope="col">Insta Url</th>
+                <th scope="col">Trainer-Image</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainer in Model)
+            {
+                counter++;
+                <tr>
+                    <th scope="row">@counter</th>
+                    <td>@trainer.FullName</td>
+                    <td>@trainer.TwitterUrl</td>
+                    <td>@trainer.FacebookUrl</td>
+                    <td>@trainer.InstagramUrl</td>
+                    <td><img src="~/uploads/trainers-images/@trainer.ImgUrl" style="width:40%;" /></td>
+                    <td>
+                        <a asp-action="update" asp-controller="trainer" asp-route-id="@trainer.Id" class="btn btn-warning">Update</a>
+                        <a asp-action="softDelete" asp-controller="trainer" asp-route-id="@trainer.Id" class="btn btn-danger delete-btn">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section jsLinks{
+    <script src="~/admin/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.1/sweetalert2.min.js"></script>
+}

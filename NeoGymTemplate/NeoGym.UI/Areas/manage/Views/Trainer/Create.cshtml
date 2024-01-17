@@ -1,0 +1,43 @@
+﻿@model Trainer
+<style>
+    .form-container {
+        padding: 50px;
+        max-width: 650px;
+        margin-top: 50px;
+    }
+</style>
+<div class="form-container container shadow">
+    <div class="header">
+        <h1>Create Trainer</h1>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label">FullName</label>
+            <input asp-for="FullName" class="form-control">
+            <span asp-validation-for="FullName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="TwitterUrl" class="form-label">TwitterUrl</label>
+            <input asp-for="TwitterUrl" class="form-control">
+            <span asp-validation-for="TwitterUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="InstagramUrl" class="form-label">InstagramUrl</label>
+            <input asp-for="InstagramUrl" class="form-control">
+            <span asp-validation-for="InstagramUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="FacebookUrl" class="form-label">FacebookUrl</label>
+            <input asp-for="FacebookUrl" class="form-control">
+            <span asp-validation-for="FacebookUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Image" class="form-label">Image</label>
+            <input asp-for="Image" class="form-control">
+            <span asp-validation-for="Image"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a asp-action="Index" asp-controller="trainer" class="btn btn-info">Back To Home</a>
+    </form>
+</div>
